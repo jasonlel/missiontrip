@@ -1,0 +1,1 @@
+import {Component} from '@angular/core';@Component({  selector: 'personal-tab',  templateUrl: 'PersonalTab.html',})export class PersonalTab {		firstname: string;	surname: string; 	mobile: string; 	homePhone: string;	passportNumber: string; 	passPortCountry: string;	birthCountry: string;			onSave(){}}

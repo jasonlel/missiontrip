@@ -1,0 +1,1 @@
+import {Component} from '@angular/core';@Component({  selector: 'travel-tab',  templateUrl: 'TravelTab.html',})export class TravelTab {}
